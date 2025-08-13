@@ -46,12 +46,3 @@ A tool that analyzes resumes using NLP to provide feedback and highlight areas f
 - Suggestions for optimization
 
 **Tech Stack:** Python ▪ spaCy ▪ scikit-learn ▪ Pandas ▪ NLTK
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/Miguel-124/AI_and_Automation_Toolkit_Projects.git
-cd AI_and_Automation_Toolkit_Projects
